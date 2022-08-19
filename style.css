@@ -1,0 +1,90 @@
+.index{
+    background-image: url(../IMG/fondo\ proyecto.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+    min-height: 210vh;   
+}
+
+.navbar.navbar-expand-lg.bg-secondary{
+    background: rgb(210,165,242);
+background: -moz-linear-gradient(0deg, rgba(210,165,242,1) 0%, rgba(6,4,3,1) 15%, rgba(6,4,3,1) 85%, rgba(210,165,242,1) 100%);
+background: -webkit-linear-gradient(0deg, rgba(210,165,242,1) 0%, rgba(6,4,3,1) 15%, rgba(6,4,3,1) 85%, rgba(210,165,242,1) 100%);
+background: linear-gradient(0deg, rgba(210,165,242,1) 0%, rgba(6,4,3,1) 15%, rgba(6,4,3,1) 85%, rgba(210,165,242,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d2a5f2",endColorstr="#d2a5f2",GradientType=1);
+
+}
+
+i.fa-brands.fa-instagram.fa-xl,
+i.fa-brands.fa-facebook.fa-xl,
+i.fa-brands.fa-linkedin.fa-xl,
+i.fa-solid.fa-user-lock.fa-xl,
+i.fa-solid.fa-user.fa-xl{
+    color: #fff
+}
+
+i.fa-brands.fa-instagram.fa-xl:hover{
+    color: rgb(241, 124, 13);
+}
+
+i.fa-brands.fa-facebook.fa-xl:hover{
+    color: rgb(47, 38, 170)
+}
+
+i.fa-brands.fa-linkedin.fa-xl:hover{
+    color: rgb(89, 162, 245)
+}
+
+i.fa-solid.fa-user-lock.fa-xl:hover{
+    color: rgb(241, 40, 174)
+}
+
+i.fa-solid.fa-graduation-cap.fa-xl:hover{
+    color:blue
+}
+
+.list-group{
+        --bs-list-group-bg: transparent;
+}
+
+section.perfil{
+        margin-top: 3rem;
+        
+}
+
+section.dashboard, section.panel{
+    margin-top: 1rem;
+}
+
+section.experiencia{
+    margin-top: 6rem;
+}
+
+section.skills{
+    margin-left: 6rem;
+}
+
+section.pie-de-pag{
+    margin-top: 7rem;
+}
+
+.list-group-item{
+    --bs-list-group-border-width: none;
+    --bs-list-group-border-color: none;
+}
+
+h3{
+    color: rgb(67, 12, 139);
+}
+
+.nav-pills .nav-link.active{
+    background-color: rgb(67, 12, 139);
+}
+
+a.btn-right{
+    color: rgb(170, 76, 189);
+}
+
+
+
+
+
